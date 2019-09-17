@@ -1,6 +1,6 @@
 # Cole Patterson's Online Games
 
-Currently Listed Games:
+Current Listed Games:
 
 Dota Watcher
 Bean Simulator
